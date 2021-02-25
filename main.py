@@ -1,12 +1,13 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from datetime import password
 
 def print_hi(name):
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {name}')
 
+def my_fuction(a,b):
+    return a + b
 
 if __name__ == '__main__':
     print_hi('Yelitza Chacon')
     print('Test control version')
+    print(password)
+    print(my_fuction(2, 4))
