@@ -1,18 +1,13 @@
-#from Playingdate import today, todaytime
-#from guessinggame import attempts
-from hello_world import num
-
+from datetime import password
 
 def print_hi(name):
     print(f'Hi, {name}')
 
-
-def myfuction(a, b):
+def my_fuction(a,b):
     return a + b
-
 
 if __name__ == '__main__':
     print_hi('Yelitza Chacon')
-    #print(myfuction(2, 4))
-    #print(today)
-    #print(todaytime)
+    print('Test control version')
+    print(password)
+    print(my_fuction(2, 4))
