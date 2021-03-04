@@ -1,7 +1,7 @@
 import random
 
 print("----------------------------")
-print("M&M guessing game!")
+print("     M&M guessing game!")
 print("----------------------------")
 
 print("Guess the number of M&Ms and you get lunch on the house!")
